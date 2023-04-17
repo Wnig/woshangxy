@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="136px" height="138px" viewBox="0 0 136 138" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.1 (51147) - http://www.bohemiancoding.com/sketch -->
+    <title>PCdongxiao</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="解决方案-PC" transform="translate(-1214.000000, -5251.000000)">
+            <g id="Group-13" transform="translate(1215.000000, 5252.000000)">
+                <g id="Group-12">
+                    <circle id="Oval" fill="#D8261A" cx="66" cy="67" r="16"></circle>
+                    <circle id="Oval" stroke-opacity="0.6" stroke="#D8261A" stroke-width="2" cx="66" cy="67" r="31"></circle>
+                    <ellipse id="Oval" stroke-opacity="0.612064085" stroke="#D8261A" cx="66.5" cy="67" rx="39.5" ry="40"></ellipse>
+                    <circle id="Oval" stroke-opacity="0.4" stroke="#D8261A" cx="66.5" cy="66.5" r="48.5"></circle>
+                    <ellipse id="Oval" stroke-opacity="0.2" stroke="#D8261A" cx="66.5" cy="68" rx="58.5" ry="59"></ellipse>
+                    <ellipse id="Oval" stroke-opacity="0.08" stroke="#D8261A" cx="67" cy="68" rx="67" ry="68"></ellipse>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

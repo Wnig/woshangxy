@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="36px" viewBox="0 0 30 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.1 (51147) - http://www.bohemiancoding.com/sketch -->
+    <title>pcdingwei</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="解决方案-PC" transform="translate(-1057.000000, -5487.000000)" fill="#4EAED5" fill-rule="nonzero">
+            <g id="Group-10" transform="translate(1057.000000, 5487.000000)">
+                <g id="pcdingwei">
+                    <path d="M15,0 C6.71484375,0 0,6.67572816 0,14.9126214 C0,19.0291262 1.6796875,22.7572816 4.39453125,25.4563107 L15,36 L25.6054688,25.4563107 C28.3203125,22.7572816 30,19.0291262 30,14.9126214 C30,6.67572816 23.2851563,0 15,0 Z M15.625,22.3448276 C11.8270357,22.3448276 8.75,19.2881174 8.75,15.5152409 C8.75,11.7423644 11.8270357,8.68965517 15.625,8.68965517 C19.4229643,8.68965517 22.5,11.7463653 22.5,15.5192418 C22.5,19.2921184 19.4229643,22.3448276 15.625,22.3448276 Z" id="Shape"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

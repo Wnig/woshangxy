@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="90px" height="83px" viewBox="0 0 90 83" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.1 (51147) - http://www.bohemiancoding.com/sketch -->
+    <title>pcdingbu</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="首页-PC" transform="translate(-1781.000000, -6719.000000)">
+            <g id="Group-27" transform="translate(1781.000000, 6719.000000)">
+                <g id="pcdingbu" transform="translate(5.000000, 3.000000)">
+                    <polygon id="Rectangle-12" fill-opacity="0.509199502" fill="#000000" points="0 21.7141436 39.5 0 79 21.7141436 79 75 0 75"></polygon>
+                    <path d="M48.4199097,58.9249893 L48.4199097,36.9865105 C48.4199097,35.6810325 49.4782087,34.6227335 50.7836867,34.6227335 C52.0891646,34.6227335 53.1474636,35.6810325 53.1474636,36.9865105 L53.1474636,60.0622307 C53.1474636,60.4064182 53.0739006,60.7334241 52.9416395,61.0283836 C52.9510087,61.1138891 52.9558175,61.2007661 52.9558175,61.2887663 C52.9558175,62.5942443 51.8975185,63.6525433 50.5920405,63.6525433 L27.5163202,63.6525433 C26.2108423,63.6525433 25.1525433,62.5942443 25.1525433,61.2887663 C25.1525433,59.9832883 26.2108423,58.9249893 27.5163202,58.9249893 L48.4199097,58.9249893 Z" id="Combined-Shape" fill="#FFFFFF" transform="translate(39.152543, 49.152543) rotate(-135.000000) translate(-39.152543, -49.152543) "></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

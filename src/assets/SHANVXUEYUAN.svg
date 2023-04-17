@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="200px" height="200px" viewBox="0 0 200 200" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.1 (51147) - http://www.bohemiancoding.com/sketch -->
+    <title>SHANVXUEYUAN</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M184.851779,46.6818666 L184.851779,79.524842 L191.57728,86.4365726 L177.563781,101.461008 L163.379087,86.9022566 L173.088265,77.8091642 L173.088265,51.8534097 C131.854828,69.3533234 118.648388,74.7944731 109.501707,79.0346482 C100.355025,83.2748234 93.7762616,83.2503138 84.7029489,79.7454291 C75.6296362,76.2405444 32.4641453,60.0151342 11.0403663,49.4514609 C-3.26660946,42.4171818 -4.17149494,37.9319098 11.2849301,31.9760567 C31.4614342,24.0839388 64.8443776,11.4369423 82.5263321,4.54972134 C92.9936578,0.186997715 98.5452535,-2.19044157 108.13215,2.78502407 C125.300521,10.0889096 164.50408,25.2358938 183.995806,33.4956571 C200.992982,41.093659 189.571858,43.6181563 184.851779,46.6818666 Z M111.482673,92.0492901 C121.460871,87.8091149 134.887417,80.8238551 149.561239,74.3532989 L149.561239,126.240298 C149.561239,126.240298 130.607553,147 97.2735223,147 C61.3960295,147 42.002129,126.240298 42.002129,126.240298 L42.002129,77.7846546 C53.3254276,82.5395332 66.0182829,86.6081405 81.4013389,92.0247805 C90.8659537,95.5051556 102.898487,96.7061301 111.482673,92.0492901 Z" id="path-1"></path>
+        <filter x="-15.3%" y="-15.3%" width="138.9%" height="151.0%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="8" dy="15" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="10" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.297488162   0 0 0 0 0.649133553   0 0 0 0 0.937287415  0 0 0 0.385275136 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="解决方案-PC" transform="translate(-382.000000, -2593.000000)" fill-rule="nonzero">
+            <g id="Group-4" transform="translate(382.000000, 2593.000000)">
+                <g id="商学院" transform="translate(3.000000, 29.000000)">
+                    <g id="Shape">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                        <use fill="#71B9F4" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

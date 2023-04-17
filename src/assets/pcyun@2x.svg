@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="218px" height="216px" viewBox="0 0 218 216" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.1 (51147) - http://www.bohemiancoding.com/sketch -->
+    <title>pcyun@2x</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <ellipse id="path-1" cx="109" cy="108" rx="109" ry="108"></ellipse>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="首页-PC" transform="translate(-160.000000, -6836.000000)">
+            <g id="Group-19" transform="translate(160.000000, 6836.000000)">
+                <g id="pcyun">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="Mask" fill="#FFFFFF" xlink:href="#path-1"></use>
+                    <path d="M-46.1153846,-9.96923077 L243.992308,-9.96923077 L243.992308,180.383789 C224.039046,155.727298 206.17898,144.060906 190.412109,145.384615 C166.761804,147.370179 169.303118,152.752979 143.769531,153.798828 C118.235945,154.844678 111.087891,141.377629 91.0957031,145.384615 C71.1035156,149.391602 73.4384766,155.436523 35.3466797,155.436523 C9.95214844,155.436523 -17.201873,135.755208 -46.1153846,96.3925781 L-46.1153846,-9.96923077 Z" id="Rectangle-10" fill="#71B9F4" mask="url(#mask-2)"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

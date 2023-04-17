@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="200px" height="200px" viewBox="0 0 200 200" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.1 (51147) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 5</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M34.1177218,0 C15.2672135,0 0,15.4939341 0,34.5859041 C0,53.6950895 15.2841959,69.1718082 34.1177218,69.1718082 L68.2524261,69.1718082 L68.2524261,34.5859041 C68.2524261,15.4767187 52.9682301,0 34.1177218,0 Z M147,34.5859041 C147,15.4767187 131.715804,0 112.882278,0 C94.0487523,0 78.7475739,15.4939341 78.7475739,34.5859041 L78.7475739,69.1718082 L112.882278,69.1718082 C131.715804,69.1718082 147,53.6950895 147,34.5859041 Z M0,114.414096 C0,133.523281 15.2841959,149 34.1177218,149 C52.9682301,149 68.2354436,133.523281 68.2354436,114.414096 L68.2354436,79.8281918 L34.1177218,79.8281918 C15.2841959,79.8281918 0,95.3049105 0,114.414096 Z M112.865296,79.8281918 L78.7305915,79.8281918 L78.7305915,114.414096 C78.7305915,133.523281 94.0147874,149 112.865296,149 C131.715804,149 146.983018,133.506066 146.983018,114.414096 C147,95.3049105 131.715804,79.8281918 112.865296,79.8281918 Z" id="path-1"></path>
+        <filter x="-19.7%" y="-17.4%" width="146.3%" height="145.6%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="5" dy="8" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="10" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.298039216   0 0 0 0 0.650980392   0 0 0 0 0.937254902  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="解决方案-PC" transform="translate(-844.000000, -2597.000000)" fill-rule="nonzero">
+            <g id="Group-5" transform="translate(844.000000, 2597.000000)">
+                <g id="服务-" transform="translate(27.000000, 24.000000)">
+                    <g id="Shape">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                        <use fill="#71B9F4" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

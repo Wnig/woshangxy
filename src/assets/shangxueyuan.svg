@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="120px" height="120px" viewBox="0 0 120 120" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.1 (51147) - http://www.bohemiancoding.com/sketch -->
+    <title>shangxueyuan</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M105.355936,26.6753524 L105.355936,45.4427669 L109.189123,49.3923272 L101.202155,57.9777191 L93.1176142,49.6584323 L98.6513429,44.4623795 L98.6513429,29.6305199 C75.1504199,39.6304705 67.6234338,42.7396989 62.4102991,45.1626561 C57.1971644,47.5856134 53.4476102,47.5716079 48.2762921,45.5688166 C43.104974,43.5660254 18.5028807,34.2943624 6.29243677,28.2579776 C-1.86179814,24.2383896 -2.37753597,21.675377 6.43182544,18.2720324 C17.9313874,13.7622508 36.9579354,6.5353956 47.0357333,2.59984077 C53.0015666,0.106855837 56.1656885,-1.2516809 61.6297229,1.59144233 C71.4148048,5.76509119 93.7588021,14.4205108 104.868076,19.1403755 C114.555586,23.4820908 108.046137,24.9246607 105.355936,26.6753524 Z M63.539347,52.5995943 C69.2264031,50.1766371 76.8788389,46.1850601 85.2421567,42.4875994 L85.2421567,72.1373133 C85.2421567,72.1373133 74.4395378,84 55.4408677,84 C34.9925557,84 23.9390372,72.1373133 23.9390372,72.1373133 L23.9390372,44.4483741 C30.3927307,47.1654475 37.6270006,49.490366 46.3945455,52.5855889 C51.7888855,54.5743746 58.6468061,55.2606457 63.539347,52.5995943 Z" id="path-1"></path>
+        <filter x="-26.8%" y="-26.8%" width="168.2%" height="189.3%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="8" dy="15" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="10" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.297488162   0 0 0 0 0.649133553   0 0 0 0 0.937287415  0 0 0 0.385275136 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="解决方案-手机端" transform="translate(-128.000000, -1573.000000)" fill-rule="nonzero">
+            <g id="Group-7" transform="translate(128.000000, 1573.000000)">
+                <g id="shangxueyuan" transform="translate(5.000000, 16.000000)">
+                    <g id="Shape">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                        <use fill="#71B9F4" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

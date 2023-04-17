@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.1 (51147) - http://www.bohemiancoding.com/sketch -->
+    <title>shangshi</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="首页-手机端" transform="translate(-257.000000, -2411.000000)" fill="#000000" fill-rule="nonzero">
+            <g id="Group-11" transform="translate(84.000000, 2162.000000)">
+                <g id="shangshi" transform="translate(178.000000, 256.000000)">
+                    <path d="M2,16.9904739 L5.51716802,16.9904739 L5.51716802,24.9809478 L2,24.9809478 L2,16.9904739 Z M9.43694925,12.7913789 L12.9541173,12.7913789 L12.9541173,24.9961896 L9.43694925,24.9961896 L9.43694925,12.7913789 Z M16.1864175,16.460824 L19.7035855,16.460824 L19.7035855,25 L16.1864175,25 L16.1864175,16.460824 Z M23.4828319,9 L27,9 L27,24.9961896 L23.4828319,24.9961896 L23.4828319,9 Z" id="Shape"></path>
+                    <polygon id="Shape" points="20.2710685 0 23.9826726 3.92481204 15.8742452 11.5300752 9.73011288 6.03759398 9.73011288 6.0225564 9.7148858 6.00751879 9.66920451 6.06766916 0 13.6278196 1.09254398 15 9.63494355 8.28571428 15.8856655 13.906015 15.9161197 13.8759399 15.9313468 13.8909774 25.1779995 5.20676691 28.562221 8.79323309 29 0.184210535"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
